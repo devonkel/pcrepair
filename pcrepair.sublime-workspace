@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"services"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"conn",
+				"connString"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conf",
+				"configs"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ran",
+				"randomFortune"
+			],
+			[
+				"fo",
+				"fortunes"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"toDo",
+				"toDoObjects"
+			],
+			[
+				"to",
+				"toDos"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/contact.jade",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/includes/showcase.jade",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/contact.js",
+			"settings":
+			{
+				"buffer_size": 1429,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/devon/jskills/puejs/pcrepair/routes/contact.js",
+		"/Users/devon/jskills/puejs/pcrepair/routes/services.js",
+		"/Users/devon/jskills/puejs/pcrepair/views/services.jade",
+		"/Users/devon/jskills/puejs/pcrepair/bin/www",
+		"/Users/devon/jskills/puejs/pcrepair/json/services.json",
+		"/Users/devon/jskills/puejs/pcrepair/app.js",
+		"/Users/devon/jskills/puejs/pcrepair/views/includes/navbar.jade",
+		"/Users/devon/jskills/puejs/pcrepair/views/index.jade",
+		"/Users/devon/jskills/puejs/pcrepair/views/layout.jade",
+		"/Users/devon/jskills/puejs/pcrepair/views/about.jade",
+		"/Users/devon/jskills/puejs/pcrepair/routes/about.js",
+		"/Users/devon/jskills/puejs/pcrepair/routes/index.js",
+		"/Users/devon/jskills/puejs/pcrepair/public/stylesheets/style.css",
+		"/Users/devon/jskills/puejs/pcrepair/views/includes/showcase.jade",
+		"/Users/devon/jskills/puejs/pcrepair/package.json",
+		"/Users/devon/jskills/puejs/ch1/public/newsletter.html",
+		"/Users/devon/jskills/puejs/ch1/exserver/index.js",
+		"/Users/devon/jskills/puejs/ch1/public/services.html",
+		"/Users/devon/jskills/puejs/ch1/public/about.html",
+		"/Users/devon/jskills/puejs/ch1/public/index.html",
+		"/Users/devon/jskills/puejs/ch1/./exserver/index.js",
+		"/Users/devon/jskills/puejs/ch1/exserver/../public/about.html",
+		"/Users/devon/nodeproj/tpd3/index.js",
+		"/Users/devon/nodeproj/tpd3/views/about.handlebars",
+		"/Users/devon/nodeproj/tpd3/credentials.js",
+		"/Users/devon/nodeproj/tpd3/views/data.handlebars",
+		"/Users/devon/nodeproj/meadow/public/qa/tests-about.js",
+		"/Users/devon/nodeproj/meadow/views/about.handlebars",
+		"/Users/devon/nodeproj/meadow/views/layouts/main.handlebars",
+		"/Users/devon/nodeproj/meadow/meadowlark.js",
+		"/Users/devon/nodeproj/meadow/500.handlebars",
+		"/Users/devon/nodeproj/meadow/views/contact.handlebars",
+		"/Users/devon/nodeproj/meadow/fortune.js",
+		"/Users/devon/nodeproj/meadow/lib/fortune.js",
+		"/Users/devon/nodeproj/meadow/tests-global.js",
+		"/Users/devon/nodeproj/meadow/404.handlebars",
+		"/Users/devon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/devon/nodeproj/meadow/about.handlebars",
+		"/Users/devon/nodeproj/meadow/home.handlebars",
+		"/Users/devon/nodeproj/meadow/main.handlebars",
+		"/Users/devon/nodeproj/meadow/.gitignore",
+		"/Users/devon/nodeproj/meadow/nodex2.sublime-project",
+		"/Users/devon/nodeproj/meadow/nodex2.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"json",
+			"function",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/contact.jade",
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.jade",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/includes/showcase.jade",
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/contact.js",
+					"settings":
+					{
+						"buffer_size": 1429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

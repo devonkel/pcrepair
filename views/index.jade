@@ -1,0 +1,32 @@
+extends layout
+block variables
+ - HOMEPAGE = true;
+
+block content
+  // Example row of columns
+  .row
+    .col-md-4
+      h2
+        i(class='glyphicon glyphicon-hdd') 
+        | Hardware Problems
+      p
+        | If you are having an issue that may be hardware-related.  We can help investigate the problem and make any necessary hardware fixes require.
+        | Also, you may want to upgrade hardware components, such as add a new hard drive, upgrade to a fast SSD drive, or move up to that better graphics card.  We can help you and make sure your system has the right power needs and driver support as well.
+      p
+        a.btn.btn-default(href='/services', role='button') View details »
+    .col-md-4
+      h2 
+        i(class='glyphicon glyphicon-list-alt') 
+        | Software Issues
+      p
+        | Are you having issue with installing or using a software application?  Our team can support many of your questions for commonly-used packages, such as MS Office products, or help contact the right vendor for answers to get you working again.
+      p
+        a.btn.btn-default(href='/services', role='button') View details »
+    .col-md-4
+      h2 
+        i(class='glyphicon glyphicon-cog') 
+        | Computer Tune-Up
+      p
+        | Computer running slow?  Browsing the Internet taking forever?  We can perform a PC TUne-Up to get the most out of your PC as well as recommend any hardware or software upgrades you may need.
+      p
+        a.btn.btn-default(href='/services', role='button') View details »
